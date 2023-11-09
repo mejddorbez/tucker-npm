@@ -1,0 +1,22 @@
+{
+  "name": "mejdfpackage",
+  "version": "1.0.0",
+  "description": "No need for descrption",
+  "main": "preparation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mejddorbez/tucker-npm.git"
+  },
+  "keywords": [
+    "Hiii"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mejddorbez/tucker-npm/issues"
+  },
+  "homepage": "https://github.com/mejddorbez/tucker-npm#readme"
+}
